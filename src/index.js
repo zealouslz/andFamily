@@ -1,3 +1,4 @@
 import ReactDOM from "react-dom"
+import Tabs from "./component/tabs"
 
-ReactDOM.render("11111", document.getElementById("root"))
+ReactDOM.render(<Tabs></Tabs>, document.getElementById("root"))
